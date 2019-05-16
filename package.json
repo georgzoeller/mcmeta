@@ -10,7 +10,7 @@
     "voxel"
   ],
   "dependencies": {
-    "save-pixels": "~0.3.0"
+    "save-pixels": "^2.3.4"
   },
   "scripts": {
     "start": "beefy demo.js",
@@ -19,7 +19,7 @@
   "peerDependencies": {},
   "license": "MIT",
   "devDependencies": {
-    "get-pixels": "~1.0.1",
+    "get-pixels": "^3.3.2",
     "tape": "~2.10.2"
   }
 }
